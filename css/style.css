@@ -1,0 +1,217 @@
+
+
+body{
+    background-image: url("../img/White_Background-01.jpg");
+    background-repeat: repeat;
+    background-position: center center;
+    font-family: 'Noto Serif Bengali', serif;
+
+
+}
+.theme-color{
+    background-color: #00509F !important;
+}
+.theme-text-color{
+    color: #00509F;
+}
+.theme-bg-color{
+    background-color: #F8F9FA;
+}
+.header-banner-box{
+    border: 5px solid #00509F;
+    width: 1140px;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.head-banner-logo{
+    height: 167px;
+    width: 95%px ;
+    
+   
+}
+.my-logo{
+    height: 150px;
+    width: 150px;
+}
+.my-home-name{
+    font-family: 'Noto Serif Bengali', serif;
+    font-size: 77px;
+    font-weight: bold;
+}
+.dropdown-menu{
+    padding: 0.5cm;
+    box-shadow: aliceblue;
+}
+.dropdown-menu.show{
+    display: flex;
+}
+.dropdown-menu ul{
+    list-style: none;
+    padding: 0;
+}
+.dropdown-item{
+font-size: 20px;
+
+}
+.nav-link{
+    color: black;
+    text-align: center;
+}
+.nav-link{
+    border: 1px solid gray;
+    padding: 10px;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+.nav-link:hover{
+    background-color:#00509F;
+    color: white !important;
+}
+.my-color{
+    background: rgb(104,48,145);
+    height:66px;
+    width: 1140px;
+}
+.btn-color-1{
+    background:rgb(97,206,112) !important;
+}
+/* .my-color-2{
+
+} */
+.banner-section{
+    width: 1140px;
+    height:320px;
+}
+.banner-section img{
+    height:100%;
+    width:100%;
+}
+.navbar-section{
+    width:1140px;
+    margin: 0 auto;
+}
+.my-font-size{
+    font-size: 22px !important;
+    text-align: center !important;
+    color: green !important;
+}
+
+.my-section{
+    width:1140px;
+    height:auto;
+    margin: 0 auto;
+}
+.PM-section img{
+    height:100%;
+    width: 100%;
+    padding:5px;
+}
+.scrall-bar{
+    height: 50px;
+    font-size: 35px;
+    font-weight: bold;
+}
+.notis-area{
+    padding: 50px;
+}
+.notis-area ul li{
+    list-style: none;
+}
+.notis-area ul li a{
+    text-decoration: none;
+}
+.quik-link-box{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    transition: 1s;
+    text-align: center;
+    margin: 5px;
+}
+.quik-link-box:hover{
+    background-color:#00509F;
+    color: white;
+}
+.quik-link-box:hover i{
+    font-size: 85px;
+    color: white;
+}
+.quik-link-box a{
+    text-decoration: none;
+}
+.quik-link-box i{
+    font-size: 80px;
+    color: rgb(169, 120, 255);
+    padding: 0;
+    transition: 1s;
+}
+.quik-link-box p{
+    text-align: center;
+    color: #00509F;
+    font-size: 22px;
+    background-color: gainsboro;
+    
+}
+.details-section ul li{
+    color: black;
+    padding: 0;
+}
+.details-section ul li a{
+    color: black;
+    }
+
+
+.details-box{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.side-section-1 img{
+height: 50%;
+width: 50%;
+text-align: center;
+
+}
+.side-section-1{
+    padding: 10px;
+}
+.text-area ul{
+    list-style: none;
+    padding: 0;
+}
+.text-area a{
+    text-decoration: none;
+    text-align: left;
+}
+.side-section-3 img{
+    width: 100%;
+}
+
+
+.footer-section{
+    width:1140px;
+    height:auto;
+    margin: 0 auto;
+   
+}
+
+
+.footer-img{
+    width:1140px;
+    height:auto;
+
+}
+
